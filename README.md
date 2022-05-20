@@ -1,1 +1,1 @@
-# Java-Training
+# NGT-Training
